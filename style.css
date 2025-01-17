@@ -97,5 +97,9 @@ background: #6C757D;
     text-transform: capitalize;
 }
 
-
+.days-forecast h2 {
+  font-size: 1.5rem;
+  margin:20px 0;
+  
+}
   
